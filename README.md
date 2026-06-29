@@ -7,4 +7,6 @@ Avaliação do ciclo 2 de métricas e auditoria de software<br>
 [Julio Cezar](https://github.com/juliodev145) - Normas e fremework<br>
 [Lucas Miranda](https://github.com/lucsundr) - Importância da Auditoria de Sistemas<br>
 [Lucas Papellas](https://github.com/lucas-fos) - Origem da Auditoria de Sistemas<br>
-[Victor Merlling](https://github.com/vctrmrlng) - Introdução
+[Victor Merlling](https://github.com/vctrmrlng) - Introdução<br>
+
+# [Vídeo de apresentação](https://drive.google.com/file/d/1hr9LB4cgTSAmBzm6Tv3F51jiYEudohEz/view?usp=sharing)
